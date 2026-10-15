@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://krokoziyabla.github.io/penthouse-avangard/sitemap.xml
+Sitemap: https://realtyego.github.io/penthouse-avangard/sitemap.xml
