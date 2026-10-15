@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krokoziyabla.github.io/penthouse-avangard/sitemap.xml
