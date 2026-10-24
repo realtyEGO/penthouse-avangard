@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://realtyego.github.io/penthouse-avangard/</loc></url>
-  <url><loc>https://realtyego.github.io/penthouse-avangard/en/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://realtyego.github.io/penthouse-avangard/</loc><lastmod>2026-10-24</lastmod><xhtml:link rel="alternate" hreflang="ru" href="https://realtyego.github.io/penthouse-avangard/"/><xhtml:link rel="alternate" hreflang="en" href="https://realtyego.github.io/penthouse-avangard/en/"/><xhtml:link rel="alternate" hreflang="zh-Hans" href="https://realtyego.github.io/penthouse-avangard/zh/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://realtyego.github.io/penthouse-avangard/"/></url>
+  <url><loc>https://realtyego.github.io/penthouse-avangard/en/</loc><lastmod>2026-10-24</lastmod><xhtml:link rel="alternate" hreflang="ru" href="https://realtyego.github.io/penthouse-avangard/"/><xhtml:link rel="alternate" hreflang="en" href="https://realtyego.github.io/penthouse-avangard/en/"/><xhtml:link rel="alternate" hreflang="zh-Hans" href="https://realtyego.github.io/penthouse-avangard/zh/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://realtyego.github.io/penthouse-avangard/"/></url>
+  <url><loc>https://realtyego.github.io/penthouse-avangard/zh/</loc><lastmod>2026-10-24</lastmod><xhtml:link rel="alternate" hreflang="ru" href="https://realtyego.github.io/penthouse-avangard/"/><xhtml:link rel="alternate" hreflang="en" href="https://realtyego.github.io/penthouse-avangard/en/"/><xhtml:link rel="alternate" hreflang="zh-Hans" href="https://realtyego.github.io/penthouse-avangard/zh/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://realtyego.github.io/penthouse-avangard/"/></url>
 </urlset>
