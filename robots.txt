@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://realtyego.github.io/penthouse-avangard/sitemap.xml
+Sitemap: https://realtyego.ru/sitemap.xml
